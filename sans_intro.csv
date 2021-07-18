@@ -13,7 +13,7 @@
 0,SansText,your tears will follow.,,,,,
 0,SansAnimation,start,,
 0,SansHead,Default,,,,
-0,CombatZoneResizeInstant,200,210,443,391,,,,
+0,CombatZoneResizeInstant,210,210,433,391,,,,
 0,HeartTeleport,320,304,,,,,,
 0,SansSlam,1,,,,,,,
 0.3,BoneVRepeat,128,210,125,0,280,3,180,,,
