@@ -16,7 +16,7 @@
 0,CombatZoneResizeInstant,210,210,433,391,,,,
 0,HeartTeleport,320,304,,,,,,
 0,SansSlam,1,,,,,,,
-0.3,BoneVRepeat,128,210,125,0,280,3,180,,,
+0.1,BoneVRepeat,128,210,125,0,280,3,180,,,
 0,BoneVRepeat,128,366,20,0,280,3,180,,,
 0,BoneVRepeat,503,210,125,2,280,3,180,,
 0,BoneVRepeat,503,366,20,2,280,3,180,,,
