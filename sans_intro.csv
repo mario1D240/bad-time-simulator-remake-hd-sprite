@@ -44,3 +44,5 @@
 0,BoneVRepeat,270,30,80,1,400,1,,,
 0,BoneVRepeat,260,0,80,1,400,1,,,
 0,BoneVRepeat,320,304,80,3,400,1,,,
+0,CombatZoneResize,250,210,393,391,,
+0.4,BoneV,
