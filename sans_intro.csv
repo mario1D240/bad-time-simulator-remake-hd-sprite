@@ -31,8 +31,9 @@
 0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666
 1.2,CombatZoneResize,285,210,363,391,,
 0,CombatZoneSpeed,560,,
-0.3,BoneVRepeat,320,340,80,3,400,1,,,
-0,BoneVRepeat,300,0,80,1,420,1,,,
+0.3,BoneVRepeat,300,0,80,1,420,1,,,
+0,BoneVRepeat,320,340,80,3,400,1,,,
+
 0,BoneVRepeat,340,0,80,1,420,1,,,
 1.0,BoneVRepeat,320,340,80,3,400,1,,,
 0,BoneVRepeat,300,0,80,1,420,1,,,
