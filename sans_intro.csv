@@ -58,3 +58,8 @@
 0.1,BoneH,640,360,42,2,500,,,
 0.1,BoneH,640,350,42,2,500,,,
 0.1,BoneH,640,340,42,2,500,,,
+0.4,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+0.4,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,,
+0,BoneStab,1,100,0,,,
