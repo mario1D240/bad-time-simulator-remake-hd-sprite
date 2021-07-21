@@ -38,7 +38,7 @@
 0,BoneVRepeat,300,0,80,1,420,1,,,
 0,BoneVRepeat,340,0,80,1,420,1,,,
 1.0,BoneVRepeat,320,340,80,3,400,1,,,
-0,CombatZoneResizeInstant,210,210,433,391,,,,
+0,CombatZoneResizeInstant,210,210,433,390,,,,
 0.2,BoneVRepeat,128,213,130,0,280,2,180,,,
 0,BoneVRepeat,128,366,20,0,280,2,180,,,
 0,BoneVRepeat,503,213,130,2,280,2,180,,
@@ -64,7 +64,7 @@
 0.4,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
 0,HeartMode,1,
-0,CombatZoneResizeInstant,200,200,443,391
+0,CombatZoneResizeInstant,200,200,443,391,,,
 0,BoneStab,1,100,100,
 0,HeartTeleport,440,198,,,,,,
 0.6,BlackScreen,1,,,,,,,
