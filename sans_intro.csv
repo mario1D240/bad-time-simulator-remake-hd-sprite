@@ -73,7 +73,7 @@
 0,HeartMode,1,
 0,HeartTeleport,320,310,,,,,,
 0,CombatZoneResizeInstant,200,200,443,391,,,,
-0,BoneVRepeat,503,340,130,0,0,7,10,,,,,
+0,BoneVRepeat,503,340,130,0,0,7,11,,,,,
 0.7,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.4,BlackScreen,0,,,,,,,
