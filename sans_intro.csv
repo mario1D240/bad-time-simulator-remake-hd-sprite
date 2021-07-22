@@ -96,7 +96,7 @@
 0,Sound,Flash,,,,,,
 0,HeartTeleport,320,304,,,,,,
 0,SansHead,NoEyes,,,,
-0,CombatZoneResizeInstant,240,270,403,391,,,,
+0,CombatZoneResizeInstant,285,270,363,391,,,,
 0.2,GasterBlaster,0,640,640,540,390,180,0.9,0.3
 0.5,GasterBlaster,0,640,640,540,403,180,0.9,0.3
 0.5,GasterBlaster,0,640,640,540,300,180,0.9,0.3
@@ -105,9 +105,9 @@
 0,SansHead,BlueEye,,
 1.7,CombatZoneResizeInstant,210,270,433,391,,,,
 0.2,SansHead,Default,,,,
-0,BoneStab,0,100,0.5,1.2,,,
-1.2,BoneStab,2,100,0.5,1.2,,,
-0.1,GasterBlaster,1,0,0,302,246,90,0.3,0.2
+1.0,BoneStab,0,100,0.5,1,,,
+0,BoneStab,2,100,0.5,1,,,
+0.9,GasterBlaster,1,0,0,302,246,90,0.3,0.2
 0.1,GasterBlaster,0,0,0,210,166,90,0.333,0.26666
 0.1,GasterBlaster,0,0,0,230,166,90,0.333,0.26666
 0.1,GasterBlaster,0,0,0,250,166,90,0.333,0.26666
