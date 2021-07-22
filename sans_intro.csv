@@ -97,10 +97,10 @@
 0,HeartTeleport,320,304,,,,,,
 0,SansHead,NoEyes,,,,
 0,CombatZoneResizeInstant,240,270,403,391,,,,
-0.2,GasterBlaster,0,640,640,540,410,180,0.9,0.3
+0.2,GasterBlaster,0,640,640,540,390,180,0.9,0.3
 0.5,GasterBlaster,0,640,640,540,403,180,0.9,0.3
 0.5,GasterBlaster,0,640,640,540,300,180,0.9,0.3
-0.5,GasterBlaster,0,640,640,540,280,180,0.9,0.3
+0.5,GasterBlaster,0,640,640,540,320,180,0.9,0.3
 1.4,GasterBlaster,3,0,0,302,166,90,2.0,0.7
 0,SansHead,BlueEye,,
 1.7,CombatZoneResizeInstant,210,270,433,391,,,,
