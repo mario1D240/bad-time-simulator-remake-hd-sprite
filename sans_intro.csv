@@ -66,7 +66,7 @@
 0,CombatZoneResizeInstant,200,200,443,391,,,
 0,BoneVRepeat,503,340,130,0,0,180,10,,,,,
 0,HeartTeleport,425,215,,,,, 
-0.5,BlackScreen,1,,,,,,,
+0.2,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 0.4,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
