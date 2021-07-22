@@ -94,3 +94,5 @@
 0,Sound,Flash,,,,,,,
 0.4,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,
+0,SansHead,NoEyes,,,,
+0,CombatZoneResizeInstant,240,302,403,391,,,,
