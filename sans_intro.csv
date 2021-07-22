@@ -105,8 +105,8 @@
 0,SansHead,BlueEye,,
 1.7,CombatZoneResizeInstant,210,270,433,391,,,,
 0.2,SansHead,Default,,,,
-1.0,BoneStab,0,100,0.5,1,,,
-2.0,BoneStab,2,100,0.5,1,,,
+1.0,BoneStab,2,100,0.5,1,,,
+2.0,BoneStab,0,100,0.5,1,,,
 1.0,GasterBlaster,1,0,0,302,246,90,0.3,0.2
 0.1,GasterBlaster,0,0,0,210,166,90,0.333,0.26666
 0.1,GasterBlaster,0,0,0,230,166,90,0.333,0.26666
