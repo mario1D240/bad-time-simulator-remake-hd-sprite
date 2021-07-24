@@ -116,4 +116,14 @@
 0.1,GasterBlaster,0,0,0,310,166,90,0.333,0.26666
 1.0,GasterBlaster,1,0,0,425,246,90,0.3,2.0
 1.0,GasterBlaster,0,0,0,170,385,180,0.3,1.0
-0,BoneVRepeat,0,300,20,2,700,5,70,,,
+0,BoneVRepeat,440,300,20,2,900,5,70,,,
+0.7,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+0.4,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,
+0,CombatZoneResizeInstant,210,210,433,391,,,,
+0,HeartTeleport,320,304,,,,,,
+0.1,BoneVRepeat,128,213,130,0,280,3,180,,,
+0,BoneVRepeat,128,366,20,0,280,3,180,,,
+0,BoneVRepeat,503,213,130,2,280,3,180,,
+0,BoneVRepeat,503,366,20,2,280,3,180,,,
