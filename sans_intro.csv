@@ -152,3 +152,6 @@
 0,Sound,Flash,,,,,,,
 1.0,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
+5,SansHead,NoEyes2,,,,,,,,
+0,CombatZoneResizeInstant,285,270,363,391,,,,
+0,HeartTeleport,320,304,,,,,,
