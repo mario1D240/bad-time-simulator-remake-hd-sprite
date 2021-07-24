@@ -101,7 +101,7 @@
 0.5,GasterBlaster,0,640,640,540,403,180,0.4,0.3
 0.5,GasterBlaster,0,640,640,540,300,180,0.4,0.3
 0.5,GasterBlaster,0,640,640,540,320,180,0.4,0.3
-1.4,GasterBlaster,2,0,0,310,166,90,2.0,0.7
+1.4,GasterBlaster,2,0,0,330,166,90,2.0,0.7
 0,SansHead,BlueEye,,
 1.7,CombatZoneResizeInstant,210,270,433,391,,,,
 0.2,SansHead,Default,,,,
@@ -126,7 +126,7 @@
 0.4,BoneVRepeat,128,210,150,0,250,7,200,,,
 0,BoneVRepeat,503,366,20,2,250,7,200,,,
 3.3,GasterBlaster,0,640,640,540,383,180,0.4,0.3
-1.3,CombatZoneResizeInstant,210,190,433,391,,,,
+1.3,CombatZoneResizeInstant,210,210,433,391,,,,
 0.1,BoneVRepeat,128,213,130,0,280,2,180,,,
 0,BoneVRepeat,128,366,20,0,280,2,180,,,
 0,BoneVRepeat,503,213,130,2,280,2,180,,
