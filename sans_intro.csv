@@ -149,3 +149,7 @@
 0.1,GasterBlaster,0,0,0,270,166,90,0.333,0.26666
 0.1,GasterBlaster,0,0,0,250,166,90,0.333,0.26666
 0.1,GasterBlaster,0,0,0,230,166,90,0.333,0.26666
+0.5,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+1.0,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,,
