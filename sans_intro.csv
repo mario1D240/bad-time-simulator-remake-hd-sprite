@@ -123,6 +123,6 @@
 0,Sound,Flash,,,,,,
 0,CombatZoneResizeInstant,210,210,433,391,,,,
 0,HeartTeleport,320,304,,,,,,
-0.4,BoneVRepeat,128,220,130,0,250,7,180,,,
-0.4,BoneVRepeat,503,336,100,2,250,7,180,,,
-0.2,GasterBlaster,0,640,640,540,383,180,0.4,0.3
+0.4,BoneVRepeat,128,210,150,0,250,7,200,,,
+0,BoneVRepeat,503,366,20,2,250,7,200,,,
+1.0,GasterBlaster,0,640,640,540,383,180,0.4,0.3
